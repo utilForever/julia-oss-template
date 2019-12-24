@@ -7,5 +7,6 @@ os:
     - windows
     - linux
     - osx
+codecov: true
 matrix:
     fast_finish: true
